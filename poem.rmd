@@ -24,6 +24,7 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+<<<<<<< HEAD
 Congratulations!  
 Today is your day.  
 You're off to Great Places!  
@@ -35,3 +36,15 @@ You can steer yourself
 any direction you choose.  
 You're on your own. And you know what you know.  
 And YOU are the guy who'll decide where to go.  
+=======
+Pink and perfect mystery   
+to which I ply my finger,   
+she ripens so exquisitely  
+the longer that I linger  
+
+and fluff the modest blossom  
+with my gentle loving hand,  
+teasing, ever pleasing  
+so that now I understand  
+
+>>>>>>> 927fd8473165c0fc9e185713ed020d453ce3ec7e
